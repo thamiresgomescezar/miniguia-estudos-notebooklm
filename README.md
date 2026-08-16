@@ -7,27 +7,27 @@
 
 ## Contexto e Objetivos
 
-Com a crescente variedade de ferramentas tecnológicas no ambiente acadêmico, a Inteligência Artificial tornou-se uma aliada estratégica para otimizar o aprendizado e a produtividade de estudantes em diversos níveis[cite: 1]. Contudo, o sucesso desse uso depende do equilíbrio entre a automação de processos e a preservação do pensamento crítico e do esforço intelectual humano[cite: 1].
+Com a crescente variedade de ferramentas tecnológicas no ambiente acadêmico, a Inteligência Artificial tornou-se uma aliada estratégica para otimizar o aprendizado e a produtividade de estudantes em diversos níveis. Contudo, o sucesso desse uso depende do equilíbrio entre a automação de processos e a preservação do pensamento crítico e do esforço intelectual humano.
 
-Este projeto visa mapear estratégias simples e eficazes para integrar a IA na rotina diária de estudos, desde o planejamento de cronogramas práticos até a pesquisa e escrita acadêmica ética[cite: 1].
+Este projeto visa mapear estratégias simples e eficazes para integrar a IA na rotina diária de estudos, desde o planejamento de cronogramas práticos até a pesquisa e escrita acadêmica ética.
 
 ### Objetivos de Aprendizagem
-- [x] Mapear ferramentas de IA para organização, pesquisa e escrita acadêmica[cite: 1].
-- [x] Desenvolver uma rotina de estudos estruturada com prompts estratégicos[cite: 1].
+- [x] Mapear ferramentas de IA para organização, pesquisa e escrita acadêmica.
+- [x] Desenvolver uma rotina de estudos estruturada com prompts estratégicos.
 - [x] Compreender diretrizes éticas sobre plágio e declaração correta de uso de IA.
-- [x] Documentar o processo de aprendizagem ativa usando o NotebookLM e gerando artefatos multimídia[cite: 1].
+- [x] Documentar o processo de aprendizagem ativa usando o NotebookLM e gerando artefatos multimídia.
 
 ---
 
 ## Curadoria de Fontes
 
-O caderno foi alimentado com **5 fontes abertas em português**[cite: 1] que abordam a aplicação prática da IA no cotidiano estudantil[cite: 1]:
+O caderno foi alimentado com **5 fontes abertas em português** que abordam a aplicação prática da IA no cotidiano estudantil:
 
-1. **[Guia] Ferramentas Populares para Estudos:** Análise das aplicações de ChatGPT, Notion AI, Perplexity e Quillbot no aprendizado[cite: 1].
-2. **[Artigo] Engenharia de Prompts na Rotina Acadêmica:** Como estruturar comandos eficientes para resumos, cronogramas e revisões[cite: 1].
-3. **[Tutorial] Gestão do Tempo e Simplificação de Temas:** Aplicação da IA para criar planos adaptativos e simplificar conceitos complexos[cite: 1].
-4. **[Manual] Diretrizes Éticas e Escrita Acadêmica:** Orientações sobre plágio, integridade acadêmica e citação transparente de IAs[cite: 1].
-5. **[Estudo] Pensamento Crítico e Suporte Intelectual:** Discussão sobre o papel da IA como assistente complementar e a importância de evitar o plágio passivo[cite: 1].
+1. **[Guia] Ferramentas Populares para Estudos:** Análise das aplicações de ChatGPT, Notion AI, Perplexity e Quillbot no aprendizado.
+2. **[Artigo] Engenharia de Prompts na Rotina Acadêmica:** Como estruturar comandos eficientes para resumos, cronogramas e revisões.
+3. **[Tutorial] Gestão do Tempo e Simplificação de Temas:** Aplicação da IA para criar planos adaptativos e simplificar conceitos complexos.
+4. **[Manual] Diretrizes Éticas e Escrita Acadêmica:** Orientações sobre plágio, integridade acadêmica e citação transparente de IAs.
+5. **[Estudo] Pensamento Crítico e Suporte Intelectual:** Discussão sobre o papel da IA como assistente complementar e a importância de evitar o plágio passivo.
 
 ---
 
@@ -51,12 +51,12 @@ Abaixo estão registrados os testes de consultas aplicados no NotebookLM e a evo
 
 ## Artefatos Gerados no NotebookLM
 
-Durante o estudo, foram gerados quatro recursos multimídia no NotebookLM para fixação e revisão contínua[cite: 1]:
+Durante o estudo, foram gerados recursos multimídia no NotebookLM para fixação e revisão contínua:
 
-1. **Resumo em Áudio (Audio Overview):** Síntese falada gerada pela IA a partir das 5 fontes, abordando as vantagens do uso de assistentes virtuais na gestão do tempo[cite: 1].
-2. **Cartões Didáticos (Flashcards):** Conjunto de perguntas e respostas objetivas para fixar conceitos sobre ferramentas de IA, plágio e técnicas de revisão[cite: 1].
-3. **Mapa Mental:** Diagrama conceitual interativo conectando a rotina de estudos (Briefing $\rightarrow$ Teoria $\rightarrow$ Revisão $\rightarrow$ Diagnóstico) com o ecossistema de ferramentas digitais.
-4. **Histórico de Conversas:** Mapeamento estruturado do diálogo e das dúvidas exploradas durante o projeto[cite: 1].
+1. **Resumo em Áudio (Audio Overview):** Síntese falada gerada pela IA a partir das 5 fontes, abordando as vantagens do uso de assistentes virtuais na gestão do tempo.
+2. **Cartões Didáticos (Flashcards):** Conjunto de perguntas e respostas objetivas para fixar conceitos sobre ferramentas de IA, plágio e técnicas de revisão.
+3. **Mapa Mental:** Diagrama conceitual interativo conectando a rotina de estudos (Briefing → Teoria → Revisão → Diagnóstico) com o ecossistema de ferramentas digitais.
+4. **Histórico de Conversas:** Mapeamento estruturado do diálogo e das dúvidas exploradas durante o projeto.
 
 ---
 
@@ -64,9 +64,9 @@ Durante o estudo, foram gerados quatro recursos multimídia no NotebookLM para f
 
 ### 1. Resumo Estruturado do Assunto
 
-- **Ecossistema de Ferramentas:** A combinação estratégica de recursos (Notion AI para organização[cite: 1], ChatGPT/Gemini para explicação e prática[cite: 1], Perplexity/Elicit para pesquisa de fontes[cite: 1] e Quizlet para memorização) cria um ambiente completo de aprendizado ativo[cite: 1].
+- **Ecossistema de Ferramentas:** A combinação estratégica de recursos (Notion AI para organização, ChatGPT/Gemini para explicação e prática, Perplexity/Elicit para pesquisa de fontes e Quizlet para memorização) cria um ambiente completo de aprendizado ativo.
 - **Fluxo Semanal Ativo:** A rotina deve equilibrar o estudo teórico durante a semana, revisões focadas na sexta-feira, simulados no sábado e diagnósticos de erros/reorganização da agenda no domingo.
-- **Uso Ético e Responsável:** A IA deve atuar estritamente como tutora e copiloto[cite: 1]. É indispensável checar informações (prevenção contra alucinações) e declarar formalmente na metodologia como a IA participou do processo.
+- **Uso Ético e Responsável:** A IA deve atuar estritamente como tutora e copiloto. É indispensável checar informações (prevenção contra alucinações) e declarar formalmente na metodologia como a IA participou do processo.
 
 ---
 
