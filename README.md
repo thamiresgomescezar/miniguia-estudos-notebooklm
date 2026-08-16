@@ -1,1 +1,1 @@
-# Miniguia - IA e Gestão de Resíduos
+# README.md
