@@ -1,1 +1,1 @@
-# miniguia-estudos-notebooklm
+# Miniguia - IA e Gestão de Resíduos
